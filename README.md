@@ -1,8 +1,12 @@
 ## Hi there! 👋 I'm Gustavo Garabetti
 
-- 👋 Hi, I’m @ggarabs
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Front-End, Low Level, Algorithms and Data Structures
+- 👋 Hi, I’m @ggarabs.
+- 👀 I’m interested in Software Development and Computer Science.
+- 🌱 I’m currently learning Front-End, Low Level, Algorithms and Data Structures.
+- 💼 I work as Software Development Intern at MACKLEAPS.
+- 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
+- 🌌 I'm passionate about Astronomy.
+- 🤝 Let's connect and learn together!
 
 <div>
   <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=ggarabs&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
