@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @ggarabs.
 - 👀 I’m interested in Software Development and Computer Science.
-- 🌱 I’m currently learning Front-End, Low Level, Algorithms and Data Structures.
-- 💼 I work as Software Development Intern at MACKLEAPS.
+- 🌱 I’m currently learning Web Development, Low Level, Algorithms and Data Structures.
+- 💼 I work as Software Development Intern at FALCONI.
 - 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
 - 🌌 I'm passionate about Astronomy.
 - 🤝 Let's connect and learn together!
