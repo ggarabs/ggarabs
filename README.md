@@ -1,8 +1,7 @@
 ## Hi there! 👋 I'm Gustavo Garabetti
 
 - 👋 Hi, I’m @ggarabs.
-- 👀 I’m interested in Software Development and Computer Science.
-- 🌱 I’m currently learning Web Development, Low Level, Algorithms and Data Structures.
+- 🌱 I’m currently learning Fullstack Web Development, Low Level, Algorithms and Data Structures.
 - 💼 I work as Software Development Intern at FALCONI.
 - 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
 - 🌌 I'm passionate about Astronomy.
@@ -21,6 +20,8 @@
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </div>
 
   ##
