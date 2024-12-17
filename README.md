@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ggarabs.
 - 🌱 I’m currently learning Fullstack Web Development, Low Level, Algorithms and Data Structures.
-- 💼 I work as Software Development Intern at FALCONI.
+- 💼 I work as Software Development Intern at Falconi.
 - 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
 - 🌌 I'm passionate about Astronomy.
 - 🤝 Let's connect and learn together!
