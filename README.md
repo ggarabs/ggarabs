@@ -1,12 +1,10 @@
 ## Hi there! 👋 I'm Gustavo Garabetti
-
 - 👋 Hi, I’m @ggarabs.
 - 🌱 I’m currently learning Fullstack Web Development, Data Science and AI, Low Level, Algorithms and Data Structures.
 - 💼 I work as Software Development Intern at Falconi.
 - 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
 - 🌌 I'm passionate about Astronomy.
 - 🤝 Let's connect and learn together!
-
 <div>
   <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=ggarabs&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
   <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggarabs&&theme=midnight-purple&layout=compact&&langs_count=8">
