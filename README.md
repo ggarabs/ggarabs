@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Gustavo Garabetti
 - 👋 Hi, I’m @ggarabs.
-- 🌱 I’m currently learning Fullstack Web Development, Data Science and AI, Low Level, Algorithms and Data Structures.
+- 🌱 I’m currently learning Fullstack Web Development, Data Science and AI.
 - 💼 I work as Software Development Intern at Falconi.
 - 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
 - 🌌 I'm passionate about Astronomy.
