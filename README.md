@@ -2,12 +2,20 @@
 
 <h2> Hi there! 👋 I'm Gustavo Garabetti </h2>
 
-<p align="left">👋 Hi, I’m @ggarabs.</p>
-<p align="left">🌱 I’m currently learning Fullstack Web Development, Data Science and AI.</p>
-<p align="left">💼 I work as Software Engineering Intern at Nubank.</p>
-<p align="left">💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.</p>
-<p align="left">🌌 I'm passionate about Astronomy.</p>
-<p align="left">🤝 Let's connect and learn together!</p>
+<p align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="left">
+        👋 Hi, I’m @ggarabs.<br>
+        🌱 I’m currently learning Fullstack Web Development, Data Science and AI.<br>
+        💼 I work as Software Engineering Intern at Nubank.<br>
+        💻 In my free time, I enjoy training for Programming Competitions, like ICPC.<br>
+        🌌 I'm passionate about Astronomy.<br>
+        🤝 Let's connect and learn together!
+      </td>
+    </tr>
+  </table>
+</p>
 
 <div>
   <img height="200cm" src="https://github-readme-stats-phi-lilac-23.vercel.app/api?username=ggarabs&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
