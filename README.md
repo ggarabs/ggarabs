@@ -5,9 +5,9 @@
 - 💻 In my free time, I enjoy trainning for Programming Competitions, like ICPC.
 - 🌌 I'm passionate about Astronomy.
 - 🤝 Let's connect and learn together!
-<div>
+<div style="">
   <img align="center" height="200cm" src="https://github-readme-stats-phi-lilac-23.vercel.app/api?username=ggarabs&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
-  <img align="center" height="200cm" src="https://github-readme-stats-phi-lilac-23.vercel.app/api/top-langs/?username=ggarabs&&theme=midnight-purple&layout=compact&&langs_count=8">
+  <img align="center" height="200cm" src="https://github-readme-stats-phi-lilac-23.vercel.app/api/top-langs/?username=ggarabs&&theme=midnight-purple&layout=compact&&langs_count=8&exclude_repo=gnn-people-flow-prediction,AI-academic-studies">
 </div>
 
 <div style="display: inline_block"><br>
