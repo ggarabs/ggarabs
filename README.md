@@ -10,18 +10,18 @@
   <img align="center" height="200cm" src="https://github-readme-stats-alpha-nine-59.vercel.app/api/top-langs/?username=ggarabs&&theme=midnight-purple&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" />
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/6f223cf7-0581-4aca-998c-934fa17661ee" />
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+<div><br>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img height="50" src="https://github.com/user-attachments/assets/6f223cf7-0581-4aca-998c-934fa17661ee" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
   &nbsp;
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   &nbsp;
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   &nbsp;
 </div>
 
